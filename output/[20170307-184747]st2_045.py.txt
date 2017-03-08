@@ -1,0 +1,90 @@
+[+] WARNING [url:https://www.lithuanianborder.eu/yphis/index.action----User:tomcat]
+[+] WARNING [url:http://www.sibcb-ncpss.org/index.action----User:root]
+[+] WARNING [url:http://www.bosaimie.jp.cache.yimg.jp/en/index.action----User:tomcat]
+[+] WARNING [url:http://www.zhongshan.gov.cn/english/index.action----User:root]
+[+] WARNING [url:https://www.aliexpress.com/store/product/Toaru-Majutsu-No-Index-Action-Figure-Misaka-Mikoto-1-7-scale-painted-figure-sexy-cute-Swimsuit/1398909_32328314163.html----User:]
+[+] WARNING [url:http://tka.nutridata.ee/tka/index.action----User:tomcat]
+[+] WARNING [url:http://jf.cloudtranslation.cc/s2t----User:success=1]
+[+] WARNING [url:http://www.meteogalicia.gal/modelos/index.action----User:tomcat6]
+[+] WARNING [url:http://abroad.mju.ac.kr/user/oia/index.action----User:cms]
+[+] WARNING [url:http://www.qikres.com/wbe/index.action----User:root]
+[+] WARNING [url:https://cbt.odyssey-com.co.jp/cbt/registration/index.action----User:tomcat6]
+[+] WARNING [url:http://www.studyatpku.com/shop/member!index.action----User:<script>if(top.showReLogin)top.showReLogin('/member/login.do');else top.location.href='/member/login.do';</script>]
+[+] WARNING [url:http://www.artemide.it/home/index.action----User:tomcat8]
+[+] WARNING [url:http://union.sogou.com/catchworm/catch_worm!index.action----User:request forbidden!]
+[+] WARNING [url:https://www.searspartsdirect.com/partsdirect/index.action----User:jboss]
+[+] WARNING [url:https://www.eestipiir.ee/yphis/index.action----User:tomcat]
+[+] WARNING [url:http://www5.statcan.gc.ca/researchers-chercheurs/index.action----User:nt authority\system]
+[+] WARNING [url:https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action----User:<script Language=Javascript>
+if (window.opener && !window.opener.closed) {
+	try
+	{
+	  var domainParent=window.opener.document.domain;
+	  if(window.document.domain==domainParent){
+	      window.opener.focus();
+	      window.opener.top.location.href="/RSnextgen/JPS/portal/Unauthorized.do";
+	      window.close();
+	  }  
+	}
+	catch(err)//cross domain will throw error
+	{}  
+}
+</script>
+
+
+
+
+
+<table width=100%>
+<tr><td><br>
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr>
+</table>]
+[+] WARNING [url:https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action----User:<script Language=Javascript>
+if (window.opener && !window.opener.closed) {
+	try
+	{
+	  var domainParent=window.opener.document.domain;
+	  if(window.document.domain==domainParent){
+	      window.opener.focus();
+	      window.opener.top.location.href="/RSnextgen/JPS/portal/Unauthorized.do";
+	      window.close();
+	  }  
+	}
+	catch(err)//cross domain will throw error
+	{}  
+}
+</script>
+
+
+
+
+
+<table width=100%>
+<tr><td><br>
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr>
+</table>]
+[+] WARNING [url:http://impacttalks.org/006/----User:<script language="javascript">top.l0cation="http://www.lookjordans.com";</script>]

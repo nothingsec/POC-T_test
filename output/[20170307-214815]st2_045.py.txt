@@ -1,0 +1,3 @@
+[+] WARNING [url:http://www.ahwst.gov.cn:13333/XXGS/index.action----User:'whoami' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。]
+[+] WARNING [url:http://www.eport.sh.cn/cms/site/index/index.action----User:snowolf]

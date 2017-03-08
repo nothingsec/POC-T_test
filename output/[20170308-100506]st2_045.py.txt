@@ -1,0 +1,7 @@
+[+] WARNING [url:http://www.zs.gov.cn/main/zwgk/leader/index.action----User:root]
+[+] WARNING [url:http://mall.wzbank.cn/mall/ui/giftIndex.action----User:<head><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="TEXT/HTML; CHARSET=utf-8"/><title>Error</title></head><body><H2>Please check your request.</H2></body></html>]
+[+] WARNING [url:http://jw.nau.edu.cn/home/index.action----User:nt authority\system]
+[+] WARNING [url:http://www.jngp.gov.cn/index.action----User:nt authority\system]
+[+] WARNING [url:http://www.eport.sh.cn/cms/site/index/index.action----User:snowolf]
+[+] WARNING [url:http://yjgl.zs.gov.cn/main/index.action----User:ibm-c4c88bd8306\administrator]
+[+] WARNING [url:http://www.sgrh.gov.cn/website/portal/PortalAction!index.action----User:]

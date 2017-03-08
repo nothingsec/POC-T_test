@@ -1,0 +1,37 @@
+[+] WARNING [url:http://www.casei.org.cn/casei/category/index_findlist.action----User:casei-srv02\administrator]
+[+] WARNING [url:http://www.libconsortia.edu.cn/index.action----User:闈炴硶璇锋眰Content-Type锛乚
+[+] WARNING [url:http://icrm.baidu.com/crm-portal/login.action----User:]
+[+] WARNING [url:http://yjgl.zs.gov.cn/main/index.action----User:ibm-c4c88bd8306\administrator]
+[+] WARNING [url:http://www.xinfeng.gov.cn/website/xfPortal/XFPortalAction!index.action----User:win-3s16ehhcaeq\administrator]
+[+] WARNING [url:http://www.airpp.net/ppbid/sys/loginAction!loginIndex.action----User:pengpengb\shenzhenair
+pengpengb\shenzhenair]
+[+] WARNING [url:http://www.xmjj.gov.cn/xxfw/shouye.action----User:nt authority\system]
+[+] WARNING [url:http://kefu.shumenol.com/about.php----User:]
+[+] WARNING [url:http://ccb.com/cn/home/index.html----User:<script>
+	location.href="http://www.ccb.com/cn/home/indexv3.html";
+</script>]
+[+] WARNING [url:http://www.cips.org.cn/preview.asp----User:]
+[+] WARNING [url:http://dflz.zhaoqing.gov.cn/platform/login!login.action----User:win-eao3tmt6fk1\administrator]
+[+] WARNING [url:http://support.lexmark.com/index----User:]
+[+] WARNING [url:http://www.hbnltsgc.cn/index/index.action----User:guest]
+[+] WARNING [url:http://www.eport.sh.cn/cms/site/index/index.action----User:snowolf]
+[+] WARNING [url:http://www.ahwst.gov.cn:13333/XXGS/index.action----User:'whoami' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。]
+[+] WARNING [url:http://www.casei.org.cn/casei/category/index_findNewsType.action----User:casei-srv02\administrator]
+[+] WARNING [url:http://blloyd.com----User:<br />
+<b>Fatal error</b>:  Cannot redeclare add_js_scripts() (previously declared in /home/content/66/10104566/html/wp-content/themes/salient-child-blloyd/functions.php:3) in <b>/home/content/66/10104566/html/wp-content/themes/salient/functions.php</b> on line <b>5</b><br />]
+[+] WARNING [url:http://wangdan.baidu.com/echannel/login.action----User:]
+[+] WARNING [url:http://thenelsondaily.com/sports/index.php----User:<p>Access denied for your country</p>]
+[+] WARNING [url:http://www.renhua.gov.cn/website/portal/PortalAction!index.action----User:]
+[+] WARNING [url:http://jzaqjg.gzjs.gov.cn:8081/JSMis/loginIndex.action----User:win-f314lv9fbi4\administrator]
+[+] WARNING [url:http://www.czxfxh.com/frontIndex.action----User:nt authority\system]
+[+] WARNING [url:http://www.jstd.gov.cn/kjxxgk/nrglIndex.action----User:win-hgq05nobp0d\administrator]
+[+] WARNING [url:https://zhanzhang.baidu.com/sitesubmit----User:]
+[+] WARNING [url:http://www.scdxcfo.net/items/index.action----User:nt authority\system]
+[+] WARNING [url:http://bjpm.org/xwgg/xwggAction!index.dhtml----User:shangwei-a6bd73\administrator
+shangwei-a6bd73\administrator]
+[+] WARNING [url:http://xf.nanhai.gov.cn/index.action----User:nhxf_web\administrator]
+[+] WARNING [url:http://www.jngp.gov.cn/index.action----User:nt authority\system]
+[+] WARNING [url:http://www.sgrh.gov.cn/website/portal/PortalAction!index.action----User:]
+[+] WARNING [url:http://www.nimr.org.cn/indexAction.action----User:x3650m2\administrator]
+[+] WARNING [url:http://wsbs.zhaoqing.gov.cn/portal/index.action----User:wt-app3\administrator]
